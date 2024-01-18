@@ -21,7 +21,7 @@ This application was built as a way to allow freelance web developers to create 
 
 Open VS Code and open terminal. To run application, type in the command 'node index.js'
 
-[ScreenRecord](<../../Screen Recording 2024-01-17 at 8.12.48 PM.mov>)
+[ScreenRecord](https://github.com/frankieee324/LogoMaker/assets/144758395/67c1e68d-880c-4ff4-8454-97daa4c169eb)
 
 ## Usage
 
