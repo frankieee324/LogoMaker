@@ -1,1 +1,36 @@
 # LogoMaker
+
+# SVG LOGO MAKER
+
+## Description
+
+This application was built as a way to allow freelance web developers to create simple logos for their clients and projects so that they can forego paying a graphic designer
+
+
+## Table of Contents 
+
+- [Installation](#installation)
+- [Screenshots](#screenshots)
+- [Credits](#credits)
+- [License](#license)
+
+## Screenshots
+![Screenshot](<../Screen Shot 2024-01-17 at 7.42.02 PM.png>)
+![Screenshot](<Screen Shot 2024-01-17 at 8.04.03 PM.png>)
+## Installation
+
+Open VS Code and open terminal. To run application, type in the command 'node index.js'
+
+[ScreenRecord](<../../Screen Recording 2024-01-17 at 8.12.48 PM.mov>)
+
+## Usage
+
+Create simple logos
+
+    ```md
+   
+    ```
+
+## Credits
+
+ 
