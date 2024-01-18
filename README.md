@@ -15,7 +15,7 @@ This application was built as a way to allow freelance web developers to create 
 - [License](#license)
 
 ## Screenshots
-![Screenshot](<../Screen Shot 2024-01-17 at 7.42.02 PM.png>)
+![Screenshot](<img width="1755" alt="Screen Shot 2024-01-17 at 7 42 02 PM" src="https://github.com/frankieee324/LogoMaker/assets/144758395/241a1755-3cb4-4b48-9884-d52be65b4574">)
 ![Screenshot](src="https://github.com/frankieee324/LogoMaker/assets/144758395/54f87145-56ef-4110-aab5-a4b3c3358362">)
 ## Installation
 
