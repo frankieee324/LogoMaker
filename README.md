@@ -16,7 +16,7 @@ This application was built as a way to allow freelance web developers to create 
 
 ## Screenshots
 ![Screenshot](<../Screen Shot 2024-01-17 at 7.42.02 PM.png>)
-![Screenshot](<Screen Shot 2024-01-17 at 8.04.03 PM.png>)
+![Screenshot](src="https://github.com/frankieee324/LogoMaker/assets/144758395/54f87145-56ef-4110-aab5-a4b3c3358362">)
 ## Installation
 
 Open VS Code and open terminal. To run application, type in the command 'node index.js'
